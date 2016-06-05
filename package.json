@@ -1,0 +1,37 @@
+{
+  "name": "genesis-g2w",
+  "description": "Development files for the GoToWebinar for Genesis plugin.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/copyblogger/genesis-g2w"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "*",
+    "grunt-autoprefixer": "*",
+    "grunt-checktextdomain": "*",
+    "grunt-contrib-cssmin": "*",
+    "grunt-contrib-imagemin": "*",
+    "grunt-contrib-jshint": "*",
+    "grunt-contrib-uglify": "*",
+    "grunt-contrib-watch": "*",
+    "grunt-csscomb": "*",
+    "grunt-jsbeautifier": "*",
+    "grunt-jsvalidate": "*",
+    "grunt-phplint": "*",
+    "grunt-styledocco": "*",
+    "grunt-wp-i18n": "*",
+    "load-grunt-tasks": "*"
+  },
+  "plugin": {
+    "name": "GoToWebinar for Genesis",
+    "uri": "https://github.com/copyblogger/genesis-g2w",
+    "description": "This plugin creates a shortcode you can insert into a post or page that will allow users to register for a webinar.",
+    "author": "Rainmaker Digital",
+    "authoruri": "http://rainmakerdigital.com/",
+    "version": "0.9.0",
+    "license": "GPL-2.0+",
+    "licenseuri": "http://www.gnu.org/licenses/gpl-2.0.html",
+    "textdomain": "genesis-g2w"
+  }
+}

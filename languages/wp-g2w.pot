@@ -1,0 +1,93 @@
+# Copyright (C) 2016
+# This file is distributed under the same license as the Go2Webinar for Genesis package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Go2Webinar for Genesis\n"
+"Report-Msgid-Bugs-To: StudioPress <translations@studiopress.com>\n"
+"POT-Creation-Date: 2016-05-09 03:19:19+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: StudioPress <translations@studiopress.com>\n"
+"Language-Team: English <translations@studiopress.com>\n"
+"X-Generator: grunt-wp-i18n 0.4.4\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes\n"
+
+#: genesis-g2w.php:79
+msgid "You must be using a Genesis child theme to activate this plugin"
+msgstr ""
+
+#: genesis-g2w.php:141
+msgid "You must be logged in to register for the webinar."
+msgstr ""
+
+#: genesis-g2w.php:146
+msgid "Register now"
+msgstr ""
+
+#: genesis-g2w.php:154
+msgid "You have successfully registered for this webinar."
+msgstr ""
+
+#: genesis-g2w.php:172
+msgid "You have successfully registered for this webinar."
+msgstr ""
+
+#: genesis-g2w.php:174
+msgid "There was an error registering for this webinar."
+msgstr ""
+
+#: includes/class-genesis-g2w-admin.php:21
+msgid "Genesis GoToWebinar Settings"
+msgstr ""
+
+#: includes/class-genesis-g2w-admin.php:22
+msgid "GoToWebinar"
+msgstr ""
+
+#: includes/class-genesis-g2w-admin.php:27
+msgid "Save Settings"
+msgstr ""
+
+#: includes/class-genesis-g2w-admin.php:28
+msgid "Reset Settings"
+msgstr ""
+
+#: includes/class-genesis-g2w-admin.php:29
+msgid "Settings saved."
+msgstr ""
+
+#: includes/class-genesis-g2w-admin.php:30
+msgid "Settings reset."
+msgstr ""
+
+#: includes/class-genesis-g2w-admin.php:31
+msgid "Error saving settings."
+msgstr ""
+
+#: includes/class-genesis-g2w-admin.php:59
+msgid "API Key"
+msgstr ""
+
+#: includes/class-genesis-g2w-admin.php:67
+msgid "Access Token"
+msgstr ""
+
+#: includes/class-genesis-g2w-admin.php:75
+msgid "Organizer Key"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Go2Webinar for Genesis"
+msgstr ""
