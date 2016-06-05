@@ -1,2 +1,2 @@
-# genesis-g2w
-GoToWebinar for Genesis
+# wp-g2w
+GoToWebinar for WordPress
